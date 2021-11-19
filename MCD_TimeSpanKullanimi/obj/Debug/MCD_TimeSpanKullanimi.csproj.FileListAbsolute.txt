@@ -1,0 +1,7 @@
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\bin\Debug\MCD_TimeSpanKullanimi.exe.config
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\bin\Debug\MCD_TimeSpanKullanimi.exe
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\bin\Debug\MCD_TimeSpanKullanimi.pdb
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\obj\Debug\MCD_TimeSpanKullanimi.csproj.AssemblyReference.cache
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\obj\Debug\MCD_TimeSpanKullanimi.csproj.CoreCompileInputs.cache
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\obj\Debug\MCD_TimeSpanKullanimi.exe
+C:\MCD\19.11.2021\MCD_TimeSpanKullanimi\MCD_TimeSpanKullanimi\obj\Debug\MCD_TimeSpanKullanimi.pdb
